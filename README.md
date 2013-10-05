@@ -1,5 +1,5 @@
-clubdeothello
-=============
+Club de Othello XO
+==================
 
 Club Othello XO is an educational game developed for the platform Sugar of the XO laptops. It is intended for visually impaired children with the aim at allowing them to learn spatio-temporals concepts.
 
