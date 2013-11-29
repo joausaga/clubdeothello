@@ -19,10 +19,10 @@ def init_game():
     try:
         audio = Audio(main_path)
         video = Video()
-        if olpcgames.ACTIVITY._shared_activity:
-            actividad_compartida = True
-        else:
-            actividad_compartida = False
+        #if olpcgames.ACTIVITY._shared_activity:
+        #    actividad_compartida = True
+        #else:
+        actividad_compartida = False
         malla = Mesh(write_path,audio,video)
         manejador_eventos = EventManager()
         engine = Engine(main_path,write_path,video,audio,malla,actividad_compartida)
