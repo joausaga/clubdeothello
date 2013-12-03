@@ -7,11 +7,11 @@ YT("https://www.youtube.com/watch?v=QAamoD3aB6s", print = TRUE)
 
 <img alt="Front" src="http://activities.sugarlabs.org/en-US/sugar/images/t/412/1267827982" />
 
-The Club
+Demo
 --------
-The game uses the metaphor of a club of Othello (or Reversi) players for guiding the children's learning process.
+Take a look at the demo video
 
-<img alt="Front" src="http://activities.sugarlabs.org/en-US/sugar/images/t/414/1268073473" />
+[Demo](https://www.youtube.com/watch?v=QAamoD3aB6s)
 
 Installation
 ------------
