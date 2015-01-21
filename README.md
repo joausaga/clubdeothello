@@ -7,9 +7,8 @@ Club Othello XO is an educational game developed for the platform Sugar of the X
 
 Demo
 --------
-Take a look at the demo video
 
-[Demo](https://www.youtube.com/watch?v=QAamoD3aB6s)
+[![ScreenShot](http://img.youtube.com/vi/VIDEO-ID/QAamoD3aB6s.jpg)](https://www.youtube.com/watch?v=QAamoD3aB6s)
 
 Installation
 ------------
